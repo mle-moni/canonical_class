@@ -2,7 +2,7 @@
   "name": "canonical_class",
   "version": "1.0.0",
   "description": "A simple tool to create canonical class files in c++",
-  "main": "canonical_class.js",
+  "main": "bin/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

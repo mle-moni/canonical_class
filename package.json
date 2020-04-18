@@ -1,0 +1,22 @@
+{
+  "name": "canonical_class",
+  "version": "1.0.0",
+  "description": "A simple tool to create canonical class files in c++",
+  "main": "canonical_class.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mle-moni/canonical_class.git"
+  },
+  "author": "LE MONIES DE SAGAZAN Mayeul",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mle-moni/canonical_class/issues"
+  },
+  "homepage": "https://github.com/mle-moni/canonical_class#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}

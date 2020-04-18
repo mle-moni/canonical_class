@@ -1,6 +1,6 @@
 {
   "name": "canonical_class",
-  "version": "1.0.0",
+  "version": "1.2.0",
   "description": "A simple tool to create canonical class files in c++",
   "main": "bin/index.js",
   "scripts": {
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/mle-moni/canonical_class#readme",
   "dependencies": {
     "fs": "0.0.1-security"
+  },
+  "bin": {
+	"class": "./bin/index.js"
   }
 }
